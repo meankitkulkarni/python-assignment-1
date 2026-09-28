@@ -6,9 +6,9 @@ A menu-driven Python mini-project for managing student records.
 
 - **Name:** Ankit Sachin Kulkarni
 - **Roll No.:** 39
-- **Course:** MCA
+- **Course:** Master of Computer Application (MCA)
 - **Subject:** Python Programming
-- **Project Type:** Mini Project / Assignment
+- **Project Type:** Assignment - 1
 
 ## Project Description
 
@@ -161,6 +161,8 @@ The sample email addresses, phone numbers and marks are synthetic demonstration 
 
 ## Author
 
-**Ankit Sachin Kulkarni**  
-MCA  
-Roll No. 39
+- **Name:** Ankit Sachin Kulkarni
+- **Roll No.:** 39
+- **Course:** Master of Computer Application (MCA)
+- **Subject:** Python Programming
+- **Project Type:** Assignment - 1
